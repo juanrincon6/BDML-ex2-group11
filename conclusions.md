@@ -1,2 +1,1 @@
-# Write here a short conclusion of the exercise. That is, answer in less than 
-50 words the last two questions of the notebook of today's class.
+La eliminación de outliers usando studentized residuals mejora ligeramente el rendimiento predictivo del modelo. El modelo (3), con los outliers eliminados, muestra un aumento en el R² (de 0.045 a 0.064) y una disminución en el error residual (de 14.165 a 9.771), lo que indica una mejora en la precisión de las predicciones. 
